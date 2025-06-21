@@ -86,8 +86,8 @@ SENSE Stick is an intelligent navigation aid that transforms a traditional white
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/sense-stick.git
-   cd sense-stick
+   git clone https://github.com/sujaldeshmukh1012/Sense-Stick.git
+   cd Sense-Stick
    ```
 
 2. **Install Arduino Libraries**
@@ -326,9 +326,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 - 📧 **Email**: support@sensestick.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/sense-stick/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/sense-stick/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/sense-stick/wiki)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/sujaldeshmukh1012/Sense-Stick/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/sujaldeshmukh1012/Sense-Stick/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/sujaldeshmukh1012/Sense-Stick/wiki)
 
 ---
 
@@ -359,7 +359,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 _Empowering independence through innovative technology_
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/sense-stick?style=social)](https://github.com/yourusername/sense-stick)
-[![Follow](https://img.shields.io/twitter/follow/sensestick?style=social)](https://twitter.com/sensestick)
+[![GitHub Stars](https://img.shields.io/github/stars/sujaldeshmukh1012/Sense-Stick?style=social)](https://github.com/sujaldeshmukh1012/Sense-Stick)
 
 </div>
